@@ -1,0 +1,26 @@
+{
+  "id": "1d3094f3-2357-49fb-8adf-a80c9a51c87a",
+  "name": "Fabcon_Integration",
+  "publisher": "Levtech",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 79999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Levtech.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
